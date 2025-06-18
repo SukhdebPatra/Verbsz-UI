@@ -1,0 +1,121 @@
+.bg-color-blue {
+  /* Layout Properties */
+  /* top: -620px;
+  left: 880px; */
+  width: 100px;
+  height: 100px;
+  /* UI Properties */
+  background: #3cb4e5 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 0.11;
+  position: rel;
+}
+
+.bg-red-blue {
+  background: #faf9fe 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.left-content {
+  padding-left: 200px;
+}
+
+.logo-text {
+  font-size: 80px;
+  top: 29px;
+  left: 224px;
+  width: 213px;
+  height: 112px;
+  text-align: left;
+  font-family: Poppins;
+  letter-spacing: 0px;
+  color: #3cb4e5;
+  opacity: 1;
+  margin-bottom: 180px;
+}
+
+.text-header {
+  top: 327px;
+  left: 224px;
+  width: 439px;
+  height: 220px;
+  text-align: left;
+  font-family: Bryant normal normal medium 100px/100px;
+  letter-spacing: 0px;
+  color: #0b325f;
+  opacity: 1;
+  font-size: 100px;
+}
+
+.text-content {
+  top: 550px;
+  left: 224px;
+  width: 505px;
+  height: 121px;
+  text-align: left;
+  font: Poppins normal normal normal 18px/32px;
+  letter-spacing: 0px;
+  color: #0b325f;
+  opacity: 1;
+  font-size: 18px;
+}
+
+.btn-primary {
+  top: 706px;
+  left: 224px;
+  width: 246px;
+  height: 81px;
+  background: #3cb4e5 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.right-content {
+}
+
+.heading-background {
+  top: -65px;
+  /* left: 880px; */
+  width: 760px;
+  height: 690px;
+  background: #3cb4e5 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 0.11;
+  position: absolute;
+  border-radius: 0% 0% 30% 75%;
+}
+
+.floating-content {
+  top: 315px;
+  /* left: 960px; */
+  /* width: 200px; */
+  height: 157px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #d1d9e4;
+  border-radius: 40px;
+  opacity: 1;
+}
+
+.floating-2::after {
+  content: "";
+  border: 3px solid #3cb4e5;
+  width: 85%;
+  position: relative;
+  top: 30px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+.floating-content::after {
+  content: "";
+  border: 3px solid #3cb4e5;
+  width: 85%;
+  position: relative;
+  top: 30px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+.floating-2 {
+  top: 500px;
+  right: 410px;
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74.917" height="77.62" viewBox="0 0 74.917 77.62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="74.917" height="77.62" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_30" data-name="Group 30" transform="translate(-69)">
+    <g id="Group_18" data-name="Group 18" transform="translate(69)" clip-path="url(#clip-path)">
+      <path id="Path_37" data-name="Path 37" d="M74.917,38.81c0,21.435-16.77,38.81-37.458,38.81S0,60.245,0,38.81,16.77,0,37.458,0,74.917,17.375,74.917,38.81" transform="translate(0 -0.001)" fill="#3cb4e5"/>
+      <path id="Path_38" data-name="Path 38" d="M15.175,22.475v-3.7h3.338" transform="translate(11.205 15.039)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="0.533"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="32.657" height="33.835" transform="translate(22.274 29.46)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.839"/>
+      <line id="Line_17" data-name="Line 17" y2="14.313" transform="translate(35.037 29.604)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.839"/>
+      <line id="Line_18" data-name="Line 18" y2="5.135" transform="translate(35.037 57.696)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.839"/>
+      <path id="Path_39" data-name="Path 39" d="M23.325,29.234A2.227,2.227,0,1,1,21.1,26.929a2.266,2.266,0,0,1,2.225,2.305" transform="translate(13.937 21.572)" fill="#fff"/>
+      <path id="Path_40" data-name="Path 40" d="M23.325,14.048A2.227,2.227,0,1,1,21.1,11.743a2.266,2.266,0,0,1,2.225,2.305" transform="translate(13.937 9.407)" fill="#fff"/>
+      <path id="Path_41" data-name="Path 41" d="M21.331,17.975c-4.334,0-9.3-.346-10.851-5.358s6.175-9.913,13.881-.288" transform="translate(7.591 5.464)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.839"/>
+      <path id="Path_42" data-name="Path 42" d="M22.206,12.273c1.881-3.156,5.917-6.365,9.6-3.831,4.619,3.177,1.843,11.9-7.141,10.036" transform="translate(16.396 6.03)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.839"/>
+    </g>
+  </g>
+</svg>

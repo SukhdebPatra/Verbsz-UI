@@ -1,5 +1,8 @@
 import { ArrowRight } from "lucide-react";
-
+import Group1 from "../imges/Group 32.svg";
+import Group2 from "../imges/Group 15.svg";
+import Group3 from "../imges/Group 30.svg";
+import Group4 from "../imges/Group 17.svg";
 import "./Home.css";
 const ContentFour = () => {
   return (
@@ -38,7 +41,7 @@ const ContentFour = () => {
   transform transition-transform duration-300 hover:scale-105 hover:text-white rounded-xl p-4 max-h-[300px]"
               >
                 <img
-                  src="/imges/Group 32.svg"
+                  src={Group1}
                   alt="Identifying Target Audiences"
                   className="w-10 h-10 mb-2"
                 />
@@ -78,7 +81,7 @@ const ContentFour = () => {
   transform transition-transform duration-300 hover:scale-105 hover:text-white rounded-2xl p-4 max-h-[300px]"
               >
                 <img
-                  src="/imges/Group 15.svg"
+                  src={Group2}
                   alt="Generating Conversions"
                   className="w-10 h-10 mb-2"
                 />
@@ -118,7 +121,7 @@ const ContentFour = () => {
   transform transition-transform duration-300 hover:scale-105 hover:text-white rounded-2xl p-4 max-h-[300px]"
               >
                 <img
-                  src="/imges/Group 30.svg"
+                  src={Group3}
                   alt="Optimizing Product Features"
                   className="w-10 h-10 mb-2"
                 />
@@ -159,7 +162,7 @@ const ContentFour = () => {
   transform transition-transform duration-300 hover:scale-105 hover:text-white rounded-2xl p-4 max-h-[300px]"
               >
                 <img
-                  src="/imges/Group 17.svg"
+                  src={Group4}
                   alt="Optimizing Product Features"
                   className="w-10 h-10 mb-2"
                 />

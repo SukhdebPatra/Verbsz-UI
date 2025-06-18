@@ -4,6 +4,9 @@ import ContentSeven from "./ContentSeven";
 import ContentSix from "./ContentSix";
 import "./Home.css";
 
+import one from '../imges/1.png';
+import ImageTwo from '../imges/Image 2.png';
+import startup from '../imges/start-up.png';
 const Home = () => {
   return (
     <>
@@ -58,7 +61,7 @@ const Home = () => {
                 style={{ margin: "auto" }}
               >
                 <img
-                  src="/assets/imges/1.png"
+                  src={one}
                   alt="Business meeting"
                   className="w-full h-auto object-cover"
                 />
@@ -67,7 +70,7 @@ const Home = () => {
               <div className="floating-content absolute  left-1/4 md:left-10 lg:left-20 bg-white p-6 rounded-2xl shadow-xl transform -translate-x-1/2 -translate-y-1/2 md:translate-x-0 md:-translate-y-1/4 lg:-translate-y-1/2 z-20 transition-all duration-300 hover:scale-105 border border-gray-100 flex flex-col justify-center items-center top-[50%]">
                 <div className="p-4 rounded-full">
                   <img
-                    src="/assets/imges/Image 2.png"
+                    src={ImageTwo}
                     alt="Generate Traffic Icon"
                     className="w-8 h-8 object-contain relative"
                   />
@@ -80,7 +83,7 @@ const Home = () => {
               <div className="floating-2 absolute  right-1/4 md:right-10 lg:right-20 bg-white p-6 rounded-2xl shadow-xl transform translate-x-1/2  md:translate-x-0  z-20 transition-all duration-300 hover:scale-105 border border-gray-100 flex flex-col justify-center items-center ">
                 <div className="p-4 rounded-full">
                   <img
-                    src="/assets/imges/start-up.png"
+                    src={startup}
                     alt="Launch Sales Icon"
                     className="w-8 h-8 object-contain"
                   />

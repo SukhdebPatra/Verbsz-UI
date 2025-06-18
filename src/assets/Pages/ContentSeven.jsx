@@ -16,7 +16,7 @@ const ContentSeven = () => {
           className="relative h-[400px] rounded-xl shadow-lg flex flex-col items-center justify-start text-center transform transition-transform duration-300 hover:scale-105 bg-cover bg-center overflow-hidden"
           style={{
             backgroundImage:
-              "url('/assets/imges/7f8b9efe3994194ed166d401ccd840ec@2x.png')",
+              "url('/imges/7f8b9efe3994194ed166d401ccd840ec@2x.png')",
           }}
         >
           <div className="relative p-3 z-10 text-black">
@@ -34,7 +34,7 @@ const ContentSeven = () => {
           className="relative h-[400px] rounded-xl shadow-lg flex flex-col items-center justify-start text-center transform transition-transform duration-300 hover:scale-105 bg-cover bg-center overflow-hidden"
           style={{
             backgroundImage:
-              "url('/assets/imges/4a08f65389dadc93a9aeba47bcd2d4fc@2x.png')",
+              "url('/imges/4a08f65389dadc93a9aeba47bcd2d4fc@2x.png')",
           }}
         >
           <div className="relative p-3 z-10 text-black">
@@ -52,7 +52,7 @@ const ContentSeven = () => {
           className="relative h-[400px] rounded-xl shadow-lg flex flex-col items-center justify-start text-center transform transition-transform duration-300 hover:scale-105 bg-cover bg-center overflow-hidden"
           style={{
             backgroundImage:
-              "url('/assets/imges/4363768806ca05ff7e78176e1f7053b6@2x.png')",
+              "url('/imges/4363768806ca05ff7e78176e1f7053b6@2x.png')",
           }}
         >
           <div className="relative p-3 z-10 text-black">

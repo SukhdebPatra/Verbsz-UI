@@ -25,7 +25,7 @@ const ContentFive = () => {
             className="w-full md:w-1/2 bg-cover bg-center h-64 md:h-auto"
             style={{
               backgroundImage:
-                "url('/assets/imges/MicrosoftTeams-image (48).png')",
+                "url('/imges/MicrosoftTeams-image (48).png')",
             }}
           ></div>
         </div>

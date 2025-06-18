@@ -38,7 +38,7 @@ const ContentFour = () => {
   transform transition-transform duration-300 hover:scale-105 hover:text-white rounded-xl p-4 max-h-[300px]"
               >
                 <img
-                  src="src/assets/imges/Group 32.svg"
+                  src="/assets/imges/Group 32.svg"
                   alt="Identifying Target Audiences"
                   className="w-10 h-10 mb-2"
                 />
@@ -78,7 +78,7 @@ const ContentFour = () => {
   transform transition-transform duration-300 hover:scale-105 hover:text-white rounded-2xl p-4 max-h-[300px]"
               >
                 <img
-                  src="src/assets/imges/Group 15.svg"
+                  src="/assets/imges/Group 15.svg"
                   alt="Generating Conversions"
                   className="w-10 h-10 mb-2"
                 />
@@ -118,7 +118,7 @@ const ContentFour = () => {
   transform transition-transform duration-300 hover:scale-105 hover:text-white rounded-2xl p-4 max-h-[300px]"
               >
                 <img
-                  src="src/assets/imges/Group 30.svg"
+                  src="/assets/imges/Group 30.svg"
                   alt="Optimizing Product Features"
                   className="w-10 h-10 mb-2"
                 />
@@ -159,7 +159,7 @@ const ContentFour = () => {
   transform transition-transform duration-300 hover:scale-105 hover:text-white rounded-2xl p-4 max-h-[300px]"
               >
                 <img
-                  src="src/assets/imges/Group 17.svg"
+                  src="/assets/imges/Group 17.svg"
                   alt="Optimizing Product Features"
                   className="w-10 h-10 mb-2"
                 />
